@@ -31,7 +31,7 @@ int main(int argc, char **argv)
 	}
 	
 		
-		// Ahora vamos a buscar el nombre de la persona cuyo DNI es uno
+		// Ahora vamos a buscar el nombre de las personas que han ganado contra la persona puesta en consola
 		// dado por el usuario
 		printf ("Dame el nombre de la persona de la qual quieres saber contra quien ha perdido\n"); 
 		scanf ("%s", nombre);
